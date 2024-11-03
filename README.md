@@ -12,7 +12,6 @@
 <p>Explore the culinary landscape with data analytics! This Power BI project transforms raw Zomato data into actionable insights, helping users understand restaurant trends, popular spots, and average bill amounts across regions.</p>
 
 <p>📢 Check out the project on my <a href="https://www.linkedin.com/posts/abhas-malguri_finlatics-powerbi-dataanalytics-activity-7146080742173818880-Yrgj?utm_source=share&utm_medium=member_desktop" target="_blank">LinkedIn</a> to see more!</p>
-
 <h2>Project Overview</h2>
 
 <p>This project showcases how data can provide valuable insights into dining trends and top culinary destinations. Here are the key steps and visuals:</p>
