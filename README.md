@@ -32,22 +32,7 @@
 
 
 - ## **Main Page of the System**  
-  <img width="960" alt="image" src="https://github.com/abhasmalguri1/Zomato-Data-Analysis/blob/main/Capture1.PNG?raw=true">
-
----
-
-- ## **USA Sales Analysis**  
-  <img width="957" alt="image" src="https://github.com/abhasmalguri1/Zomato-Data-Analysis/blob/main/Capture1.PNG?raw=true">
-
----
-
-- ## **Canada Sales Analysis**  
-  <img width="957" alt="image" src="https://github.com/abhasmalguri1/Zomato-Data-Analysis/blob/main/Capture2.PNG?raw=true">
-
----
-
-- ## **France Sales Analysis**  
-  <img width="956" alt="image" src="https://github.com/abhasmalguri1/Zomato-Data-Analysis/blob/main/Capture3.PNG?raw=true">
+  <img width="960" alt="image" src="https://github.com/abhasmalguri1/Zomato-Data-Analysis/blob/main/Capture.PNG?raw=true">
 
 
 <h2>Key Insights</h2>
