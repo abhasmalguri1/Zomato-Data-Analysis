@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Culinary Landscape Analytics with Power BI</title>
+ 
 </head>
 <body>
 
@@ -27,24 +27,28 @@
     </ul>
 </ul>
 
-<h2>Screenshots</h2>
-<ul>
-    <li><strong>Overview - No Items Selected</strong></li>
-    <p>This view shows the default dashboard layout with no specific items selected. It provides an overview of the culinary landscape before diving into specific regions or categories.</p>
-    <img src="Capture.png" alt="Default dashboard view with no items clicked" width="500">
+# User Interface
+---
 
-    <li><strong>USA Sales Analysis</strong></li>
-    <p>Here, the dashboard filters down to display sales and dining trends specifically for the USA. This view highlights the unique culinary data for American restaurants.</p>
-    <img src="Capture1.png" alt="Dashboard view with USA selected" width="500">
 
-    <li><strong>Canada Sales Analysis</strong></li>
-    <p>Focusing on Canada, this view reveals trends and insights for Canadian restaurants. It gives an in-depth look at votes, average bills, and restaurant types in Canada.</p>
-    <img src="Capture2.png" alt="Dashboard view with Canada selected" width="500">
+- ## **Main Page of the System**  
+  <img width="960" alt="image" src="https://github.com/abhasmalguri1/Zomato-Data-Analysis/blob/main/Capture1.PNG?raw=true">
 
-    <li><strong>France Sales Analysis</strong></li>
-    <p>In this view, the dashboard is filtered to display metrics for France, uncovering insights into French culinary preferences and dining patterns.</p>
-    <img src="Capture3.png" alt="Dashboard view with France selected" width="500">
-</ul>
+---
+
+- ## **USA Sales Analysis**  
+  <img width="957" alt="image" src="https://github.com/abhasmalguri1/Zomato-Data-Analysis/blob/main/Capture1.PNG?raw=true">
+
+---
+
+- ## **Canada Sales Analysis**  
+  <img width="957" alt="image" src="https://github.com/abhasmalguri1/Zomato-Data-Analysis/blob/main/Capture2.PNG?raw=true">
+
+---
+
+- ## **France Sales Analysis**  
+  <img width="956" alt="image" src="https://github.com/abhasmalguri1/Zomato-Data-Analysis/blob/main/Capture3.PNG?raw=true">
+
 
 <h2>Key Insights</h2>
 
